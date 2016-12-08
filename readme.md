@@ -6,3 +6,4 @@ Create a new branch is quick
 Createing a new branch is quick And simple.
 add merge
 add merge fast forward
+add merge no fast forwad
