@@ -7,4 +7,4 @@ Createing a new branch is quick And simple.
 add merge
 add merge fast forward
 add merge no fast forwad
-test stash
+test stash2 and edit stash1 create a conflict
