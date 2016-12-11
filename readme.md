@@ -8,3 +8,4 @@ add merge
 add merge fast forward
 add merge no fast forwad
 test stash2 and edit stash1 create a conflict
+ready to handle comflict
